@@ -1,6 +1,6 @@
 # Hi there 👋
 
-<h2><a href="https://skwal.net">Skwal.net</a> is an organization and a website founded by Léopold Koprivnik Ibghy, French student aged 12. Computer, hacking and programming lover</h2>
+<h2><a href="https://skwal.net">Skwal.net</a> is an organization and a website founded by Léopold Koprivnik Ibghy, French student aged 13. Computer, hacking and programming lover</h2>
 
 <div style="display: flex; align-content: center;">
   <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=SkwalExe&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Skwal-net      :: Profile Stats" /></p>
